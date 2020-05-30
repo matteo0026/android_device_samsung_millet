@@ -1,0 +1,2 @@
+add_lunch_combo omni_millet-eng
+add_lunch_combo omni_millet-userdebug
